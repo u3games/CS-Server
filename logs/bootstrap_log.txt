@@ -1,0 +1,48 @@
+
+
+[2016-11-20 16:08:29] Startup - updater built Dec  2 2013 18:43:44
+[2016-11-20 16:08:29] Checking for update on startup
+[2016-11-20 16:08:29] Checking for available update...
+[2016-11-20 16:08:50] Download failed: http error 0
+[2016-11-20 16:08:51] Package file steamcmd_public_all.zip.509c709ea8ee855d8f1d0dfa9d4a6738ed65e7d9 missing or incorrect size
+[2016-11-20 16:08:51] Package file steamcmd_bins_win32.zip.7ecbc368439be0a18d63ac05689852de0e79f836 missing or incorrect size
+[2016-11-20 16:08:51] Package file steamcmd_steamservice_win32.zip.c49e0b87b8e3789884c94ba338b2e23b1a09deb2 missing or incorrect size
+[2016-11-20 16:08:51] Package file steamcmd_steamerrorreporter_win32.zip.64fe73b7ec884ead2b11122f219b3208593bb0b1 missing or incorrect size
+[2016-11-20 16:08:51] Package file steamcmd_win32.zip.a0597a83d688c10dfd0ba5cd990d4ef46b8b9c28 missing or incorrect size
+[2016-11-20 16:08:51] Downloading update (0 of 8,886 KB)...
+[2016-11-20 16:09:12] Error: Download of package (steamcmd_steamservice_win32) failed after 0 bytes (0).
+[2016-11-20 16:09:12] Error: Download of package (steamcmd_bins_win32) failed after 0 bytes (0).
+[2016-11-20 16:09:12] Error: Download of package (steamcmd_public_all) failed after 0 bytes (0).
+[2016-11-20 16:09:33] Error: Download of package (steamcmd_steamerrorreporter_win32) failed after 0 bytes (0).
+[2016-11-20 16:09:33] Error: Download of package (steamcmd_win32) failed after 0 bytes (0).
+[2016-11-20 16:09:33] Package file steamcmd_public_all.zip.509c709ea8ee855d8f1d0dfa9d4a6738ed65e7d9 missing or incorrect size
+[2016-11-20 16:09:33] Package file steamcmd_bins_win32.zip.7ecbc368439be0a18d63ac05689852de0e79f836 missing or incorrect size
+[2016-11-20 16:09:33] Package file steamcmd_steamservice_win32.zip.c49e0b87b8e3789884c94ba338b2e23b1a09deb2 missing or incorrect size
+[2016-11-20 16:09:33] Package file steamcmd_steamerrorreporter_win32.zip.64fe73b7ec884ead2b11122f219b3208593bb0b1 missing or incorrect size
+[2016-11-20 16:09:33] Package file steamcmd_win32.zip.a0597a83d688c10dfd0ba5cd990d4ef46b8b9c28 missing or incorrect size
+[2016-11-20 16:09:34] Downloading update (1,480 of 8,886 KB)...
+[2016-11-20 16:09:34] Downloading update (5,363 of 8,886 KB)...
+[2016-11-20 16:09:34] Downloading update (8,237 of 8,886 KB)...
+[2016-11-20 16:09:34] Downloading update (8,886 of 8,886 KB)...
+[2016-11-20 16:09:34] Download Complete.
+[2016-11-20 16:09:34] uninstalled manifest found in C:\Users\Swarlog\Desktop\CS Dev\xxx\steamcmd\package\steam_cmd_win32 (1).
+[2016-11-20 16:09:34] Found pending update
+[2016-11-20 16:09:34] Applying update...
+[2016-11-20 16:09:34] Extracting package...
+[2016-11-20 16:09:35] Installing update...
+[2016-11-20 16:09:37] Committing NTFS transaction (0 non-transactional backup files)
+[2016-11-20 16:09:38] Cleaning up...
+[2016-11-20 16:09:38] Update complete, launching...
+[2016-11-20 16:09:38] Shutdown
+
+
+[2016-11-20 16:16:29] Startup - updater built Oct 18 2016 14:57:02
+[2016-11-20 16:16:29] Checking for update on startup
+[2016-11-20 16:16:29] Buscando actualizaciones disponibles...
+[2016-11-20 16:16:50] Download failed: http error 0 (client-download.steampowered.com/client/steam_cmd_win32)
+[2016-11-20 16:16:50] Download skipped: /client/steam_cmd_win32 version 1476829516, installed version 1476829516
+[2016-11-20 16:16:50] Nothing to do
+[2016-11-20 16:16:50] Verificando instalación...
+[2016-11-20 16:16:50] Performing checksum verification of executable files
+[2016-11-20 16:16:50] Verification complete
+[2016-11-20 16:47:34] Shutdown

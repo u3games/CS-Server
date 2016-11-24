@@ -1,0 +1,24 @@
+
+
+[2016-11-20 16:11:30] Log session started
+[2016-11-20 16:11:30] [0,0] SetSteamID( [U:1:0] )
+[2016-11-20 16:11:30] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2016-11-20 16:15:44] [0,0] SetSteamID( [U:1:0] )
+[2016-11-20 16:15:44] [0,0] SetSteamID( [U:1:0] )
+[2016-11-20 16:15:44] [0,0] LogOn() called, but we don't have a valid SteamID or user/pass combo set yet
+
+
+[2016-11-20 16:16:50] Log session started
+[2016-11-20 16:16:50] [0,0] SetSteamID( [U:1:0] )
+[2016-11-20 16:16:50] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2016-11-20 16:17:59] [0,0] SetSteamID( [U:1:0] )
+[2016-11-20 16:17:59] [0,0] SetSteamID( [a:1:0] )
+[2016-11-20 16:17:59] CCMInterface::YieldingConnect -- no CMs cached locally, calling ISteamDirectory/GetCMList web api. . .
+[2016-11-20 16:18:00] CCMInterface::YieldingConnect -- got 100 CMs from ISteamDirectory/GetCMList.
+[2016-11-20 16:18:00] [1,4] Connect() starting connection (eNetQOSLevelHigh, 162.254.197.42:27021, UDP)
+[2016-11-20 16:18:01] [1,4] ConnectionCompleted() (162.254.196.41:27021, UDP)
+[2016-11-20 16:18:02] [1,4] RecvMsgClientLogOnResponse() : [a:1:1252050989] 'OK'
+[2016-11-20 16:47:34] [3,4] ResetVoiceRecording() (was recording: 0) (last get voice time: 1844 seconds ago)
+[2016-11-20 16:47:34] [3,4] LogOff()
+[2016-11-20 16:47:34] [2,4] AsyncDisconnect()
+[2016-11-20 16:47:34] [2,4] Log session ended

@@ -1,0 +1,31 @@
+
+
+[2016-11-20 16:18:02] RequestAppInfoUpdate: nNumAppIDs 1
+[2016-11-20 16:18:02] ProductInfoChanges: change number 0->2465999, apps: 0/0, packages: 0/0
+[2016-11-20 16:18:02] UpdatesJob: requesting 1 apps, 1 packages (meta data, 1024 prev attempts)
+[2016-11-20 16:18:03] UpdatesJob: requesting 1 apps, 1 packages (full data, 1024 prev attempts)
+[2016-11-20 16:18:03] UpdatesJob: finished OK, nAppsUpdated 1 (2 KB), nPackagesUpdated 1 (6 KB)
+[2016-11-20 16:18:03] UpdatesJob: requesting 190 apps, 0 packages (meta data, 1024 prev attempts)
+[2016-11-20 16:18:04] UpdatesJob: requested 74 access tokens, 32 received, 42 denied
+[2016-11-20 16:18:05] UpdatesJob: updated SHAs with 32 new access tokens
+[2016-11-20 16:18:05] UpdatesJob: downloaded 5 apps via HTTP, 127 KB (32 KB compressed)
+[2016-11-20 16:18:05] UpdatesJob: requesting 185 apps, 0 packages (full data, 1024 prev attempts)
+[2016-11-20 16:18:07] UpdatesJob: finished OK, nAppsUpdated 190 (489 KB), nPackagesUpdated 0 (0 KB)
+[2016-11-20 16:18:22] Starting async write C:\Users\Swarlog\Desktop\CS Dev\xxx\steamcmd/appcache/appinfo.vdf (360050 bytes)
+[2016-11-20 16:19:09] RequestAppInfoUpdate: nNumAppIDs 1
+[2016-11-20 16:19:09] UpdatesJob: requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2016-11-20 16:19:09] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2016-11-20 16:19:09] UpdatesJob: requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2016-11-20 16:19:10] UpdatesJob: requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2016-11-20 16:19:10] UpdatesJob: finished OK, nAppsUpdated 1 (5 KB), nPackagesUpdated 0 (0 KB)
+[2016-11-20 16:19:21] UpdatesJob: requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2016-11-20 16:19:22] UpdatesJob: requesting 1 apps, 0 packages (full data, 1024 prev attempts)
+[2016-11-20 16:19:22] UpdatesJob: finished OK, nAppsUpdated 1 (6 KB), nPackagesUpdated 0 (0 KB)
+[2016-11-20 16:19:37] Starting async write C:\Users\Swarlog\Desktop\CS Dev\xxx\steamcmd/appcache/appinfo.vdf (368324 bytes)
+[2016-11-20 16:20:16] RequestAppInfoUpdate: nNumAppIDs 1
+[2016-11-20 16:20:16] UpdatesJob: requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2016-11-20 16:20:16] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2016-11-20 16:27:50] RequestAppInfoUpdate: nNumAppIDs 1
+[2016-11-20 16:27:50] UpdatesJob: requesting 1 apps, 0 packages (meta data, 1024 prev attempts)
+[2016-11-20 16:27:50] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
+[2016-11-20 16:33:02] ProductInfoChanges: change number 2465999->2466010, apps: 0/8, packages: 0/0

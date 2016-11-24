@@ -1,0 +1,55 @@
+hlds_steamgames
+{
+	"Counter-Strike"
+	{
+		"gamedir"	"cstrike"
+		"cacheID"	"11"
+		"map"		"de_aztec"
+		"appID"	"10"
+	}
+	"Team Fortress Classic"
+	{
+		"gamedir"	"tfc"
+		"cacheID"	"21"
+		"map"		"2fort"
+		"appID"	"20"
+	}
+	"Day of Defeat"
+	{
+		"gamedir"	"dod"
+		"cacheID"	"31"
+		"appID"	"30"
+		"map"		"dod_flash"
+	}
+	"Deathmatch Classic"
+	{
+		"gamedir"	"dmc"
+		"cacheID"	"41"
+		"appID"	"40"
+		"map"		"dmc_dm4"
+	}
+	"Ricochet"
+	{
+		"gamedir"	"ricochet"
+		"cacheID"	"61"
+		"appID"	"60"
+		"map"		"rc_arena"
+	}
+	"Half-Life"
+	{
+		"gamedir"	"valve"
+		"cacheID"	"1"
+		"appID"	"70"
+		"default"	"1"
+		"map"		"stalkyard"
+	}
+	
+	"Condition Zero"
+	{
+		"gamedir"	"czero"
+		"cacheID"	"81"
+		"appID"	"80"
+		"map"		"de_dust_cz"
+		"dependentCacheID" "11"
+	}
+}

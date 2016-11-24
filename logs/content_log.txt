@@ -1,0 +1,203 @@
+
+
+[2016-11-20 16:11:30] Loaded 0 apps from install folder "C:\Users\Swarlog\Desktop\CS Dev\xxx\steamcmd\steamapps\appmanifest_*.acf".
+
+
+[2016-11-20 16:16:50] Loaded 0 apps from install folder "C:\Users\Swarlog\Desktop\CS Dev\xxx\steamcmd\steamapps\appmanifest_*.acf".
+[2016-11-20 16:18:42] Loaded 0 apps from install folder "c:\users\swarlog\desktop\cs dev\xxx\steamcmd\server\steamapps\appmanifest_*.acf".
+[2016-11-20 16:19:09] AppID 90 state changed : Update Required,
+[2016-11-20 16:19:09] AppID 70 state changed : Uninstalled, (Missing configuration)
+[2016-11-20 16:19:09] Uninstalled AppID 70 (Missing configuration)
+[2016-11-20 16:19:09] Scheduler update appID 90: Priority First, legacy=no, restore="", timeSinceLastPlayed=1479655149, appDisableSecondsRemaining=0
+[2016-11-20 16:19:09] Scheduler update appID 90: Priority First, legacy=no, restore="", timeSinceLastPlayed=1479655149, appDisableSecondsRemaining=0
+[2016-11-20 16:19:09] AppID 90 state changed : Update Required,Update Running,
+[2016-11-20 16:19:09] AppID 90 update changed : Running,
+[2016-11-20 16:19:09] AppID 90 update changed : Running,Reconfiguring,
+[2016-11-20 16:19:10] Got 20 download sources via "/serverlist/40/20/" from 155.133.246.10:80
+[2016-11-20 16:19:10] Created download interface of type 'CS' (1) to host valve1502.steampipe.steamcontent.com (valve1502.steamcontent.com)
+[2016-11-20 16:19:10] Created download interface of type 'CS' (1) to host valve1500.steampipe.steamcontent.com (valve1500.steamcontent.com)
+[2016-11-20 16:19:10] Created download interface of type 'CS' (1) to host valve1501.steampipe.steamcontent.com (valve1501.steamcontent.com)
+[2016-11-20 16:19:10] HTTP (CS,1502) - valve1502.steampipe.steamcontent.com (valve1502.steamcontent.com): AuthenticateDepotID (5) - Success!
+[2016-11-20 16:19:10] HTTP (CS,1502) - valve1502.steampipe.steamcontent.com (valve1502.steamcontent.com): /depot/5/manifest/5108058710828126170/5?l=9&e=1480259969&h=62514eefdf35d0c561477a124da650acfe1a2df3 - received 200 (OK) HTTP response
+[2016-11-20 16:19:11] HTTP (CS,1501) - valve1501.steampipe.steamcontent.com (valve1501.steamcontent.com): AuthenticateDepotID (1004) - Success!
+[2016-11-20 16:19:11] HTTP (CS,1501) - valve1501.steampipe.steamcontent.com (valve1501.steamcontent.com): /depot/1004/manifest/7813735849390880925/5?l=12&e=1480259969&h=da5fefaae706e3d1d0962c3ef57a5dea0e05dc7e - received 200 (OK) HTTP response
+[2016-11-20 16:19:11] AppID 90 update changed : Running,
+[2016-11-20 16:19:11] AppID 90 update changed : Running,Validating,
+[2016-11-20 16:19:11] Validating files (new target,full) ...
+[2016-11-20 16:19:11] File validation finished: 146 files (37058629 bytes) total, 146 files (37058629 bytes) mismatched (46 msec).
+[2016-11-20 16:19:11] AppID 90 update changed : Running,
+[2016-11-20 16:19:11] AppID 90 update changed : Running,Preallocating,
+[2016-11-20 16:19:11] AppID 90 update changed : Running,
+[2016-11-20 16:19:11] AppID 90 update started : download 0/12931088, store 0/0, reuse 0/0, stage 0/37058629
+[2016-11-20 16:19:11] AppID 90 state changed : Update Required,Update Running,Update Started,
+[2016-11-20 16:19:11] AppID 90 update changed : Running,Downloading,
+[2016-11-20 16:19:11] AppID 90 update changed : Running,Downloading,Staging,
+[2016-11-20 16:19:12] HTTP (CS,1501) - valve1501.steampipe.steamcontent.com (valve1501.steamcontent.com): AuthenticateDepotID (5) - Success!
+[2016-11-20 16:19:12] HTTP (CS,1500) - valve1500.steampipe.steamcontent.com (valve1500.steamcontent.com): AuthenticateDepotID (5) - Success!
+[2016-11-20 16:19:17] HTTP (CS,1502) - valve1502.steampipe.steamcontent.com (valve1502.steamcontent.com): AuthenticateDepotID (1004) - Success!
+[2016-11-20 16:19:17] HTTP (CS,1500) - valve1500.steampipe.steamcontent.com (valve1500.steamcontent.com): AuthenticateDepotID (1004) - Success!
+[2016-11-20 16:19:19] AppID 90 update changed : Running,
+[2016-11-20 16:19:19] AppID 90 update changed : Running,Committing,
+[2016-11-20 16:19:19] AppID 90 file commit : 146 updated, 0 moved, 0 deleted
+[2016-11-20 16:19:21] AppID 90 state changed : Fully Installed,Update Running,
+[2016-11-20 16:19:21] Finished update AppID 90, mounted depots (BuildID 332582): 5 (5108058710828126170),1004 (7813735849390880925),
+[2016-11-20 16:19:21] AppID 90 update changed : Running,
+[2016-11-20 16:19:21] AppID 90 update changed : None
+[2016-11-20 16:19:21] AppID 90 state changed : Fully Installed,
+[2016-11-20 16:19:21] AppID 70 state changed : Update Required,Shared Only,
+[2016-11-20 16:19:21] Dependency added: parent 70, child 90, depot 1
+[2016-11-20 16:19:21] AppID 90 state changed : Update Required,Fully Installed,
+[2016-11-20 16:19:21] AppID 10 state changed : Uninstalled, (Missing configuration)
+[2016-11-20 16:19:21] Uninstalled AppID 10 (Missing configuration)
+[2016-11-20 16:19:21] AppID 90 scheduler finished : leaving in schedule
+[2016-11-20 16:19:21] AppID 90 state changed : Update Required,Fully Installed,Update Running,
+[2016-11-20 16:19:21] AppID 90 update changed : Running,
+[2016-11-20 16:19:21] AppID 90 update changed : Running,Reconfiguring,
+[2016-11-20 16:19:21] AppID 90 update changed : Running,
+[2016-11-20 16:19:21] AppID 90 update changed : Running,Validating,
+[2016-11-20 16:19:21] Validating files (new target,full) ...
+[2016-11-20 16:19:21] File validation finished: 0 files (0 bytes) total, 0 files (0 bytes) mismatched (37 msec).
+[2016-11-20 16:19:21] AppID 90 update changed : Running,
+[2016-11-20 16:19:21] AppID 90 update started : download 0/0, store 0/0, reuse 0/0, stage 0/0
+[2016-11-20 16:19:21] No changes detected, active: 5 (5108058710828126170),1004 (7813735849390880925), target: 5 (5108058710828126170),1004 (7813735849390880925),
+[2016-11-20 16:19:21] AppID 90 state changed : Update Required,Fully Installed,Update Running,Update Started,
+[2016-11-20 16:19:21] AppID 90 update changed : Running,Committing,
+[2016-11-20 16:19:21] AppID 90 file commit : 0 updated, 0 moved, 0 deleted
+[2016-11-20 16:19:21] AppID 90 state changed : Fully Installed,Update Running,
+[2016-11-20 16:19:21] Finished update AppID 90, mounted depots (BuildID 332582): 5 (5108058710828126170),1004 (7813735849390880925),
+[2016-11-20 16:19:21] AppID 90 update changed : Running,
+[2016-11-20 16:19:21] AppID 90 update changed : None
+[2016-11-20 16:19:21] AppID 90 state changed : Fully Installed,
+[2016-11-20 16:19:21] AppID 10 state changed : Uninstalled, (Missing configuration)
+[2016-11-20 16:19:21] Uninstalled AppID 10 (Missing configuration)
+[2016-11-20 16:19:21] AppID 90 scheduler finished : removed from schedule
+[2016-11-20 16:20:16] AppID 10 state changed : Update Required,Shared Only,
+[2016-11-20 16:20:16] Dependency added: parent 10, child 90, depot 11
+[2016-11-20 16:20:16] AppID 90 state changed : Update Required,Fully Installed,
+[2016-11-20 16:20:16] Dependency added: parent 70, child 90, depot 71
+[2016-11-20 16:20:16] Scheduler update appID 90: Priority First, legacy=no, restore="", timeSinceLastPlayed=1479655216, appDisableSecondsRemaining=0
+[2016-11-20 16:20:17] AppID 90 state changed : Update Required,Fully Installed,Update Running,
+[2016-11-20 16:20:17] AppID 70 state changed : Update Required,Shared Only,Update Running,
+[2016-11-20 16:20:17] AppID 10 state changed : Update Required,Shared Only,Update Running,
+[2016-11-20 16:20:17] AppID 90 update changed : Running,
+[2016-11-20 16:20:17] AppID 90 update changed : Running,Reconfiguring,
+[2016-11-20 16:20:17] Download system icon for AppID 10 to C:\Users\Swarlog\Desktop\CS Dev\xxx\steamcmd\steam\games\f16b5951eed02e3c3516389031374e95268d9ce7.ico
+[2016-11-20 16:20:17] Download system icon for AppID 70 to C:\Users\Swarlog\Desktop\CS Dev\xxx\steamcmd\steam\games\d991f95d96e1c76d2acb944bb09447628cd96caa.ico
+[2016-11-20 16:20:17] HTTP (CS,1500) - valve1500.steampipe.steamcontent.com (valve1500.steamcontent.com): Closing connection
+[2016-11-20 16:20:18] HTTP (CS,1502) - valve1502.steampipe.steamcontent.com (valve1502.steamcontent.com): AuthenticateDepotID (11) - Success!
+[2016-11-20 16:20:18] HTTP (CS,1502) - valve1502.steampipe.steamcontent.com (valve1502.steamcontent.com): /depot/11/manifest/3149618157612033597/5?l=10&e=1480260036&h=f5b22cb329425bd3183b4a5583d0fef4a48ed995 - received 200 (OK) HTTP response
+[2016-11-20 16:20:18] HTTP (CS,1501) - valve1501.steampipe.steamcontent.com (valve1501.steamcontent.com): Closing connection
+[2016-11-20 16:20:19] HTTP (CS,1502) - valve1502.steampipe.steamcontent.com (valve1502.steamcontent.com): AuthenticateDepotID (1) - Success!
+[2016-11-20 16:20:19] HTTP (CS,1502) - valve1502.steampipe.steamcontent.com (valve1502.steamcontent.com): /depot/1/manifest/5409401804038872403/5?l=9&e=1480260038&h=9fb214f2efdb30fa139ef04cc8421e84e86c0bd5 - received 200 (OK) HTTP response
+[2016-11-20 16:20:20] HTTP (CS,1502) - valve1502.steampipe.steamcontent.com (valve1502.steamcontent.com): AuthenticateDepotID (71) - Success!
+[2016-11-20 16:20:20] HTTP (CS,1502) - valve1502.steampipe.steamcontent.com (valve1502.steamcontent.com): /depot/71/manifest/778444776426820105/5?l=10&e=1480260038&h=4975894220799c8e801ab1f6a427ae2979762aa9 - received 200 (OK) HTTP response
+[2016-11-20 16:20:20] AppID 90 update changed : Running,
+[2016-11-20 16:20:20] AppID 90 update changed : Running,Validating,
+[2016-11-20 16:20:20] Validating files (new target,full) ...
+[2016-11-20 16:20:20] File validation finished: 1157 files (292827978 bytes) total, 1157 files (292827978 bytes) mismatched (96 msec).
+[2016-11-20 16:20:20] Validating files (new target,full) ...
+[2016-11-20 16:20:20] File validation finished: 3791 files (445330938 bytes) total, 3791 files (445330938 bytes) mismatched (241 msec).
+[2016-11-20 16:20:20] Validating files (new target,full) ...
+[2016-11-20 16:20:20] File validation finished: 0 files (0 bytes) total, 0 files (0 bytes) mismatched (50 msec).
+[2016-11-20 16:20:20] AppID 90 update changed : Running,
+[2016-11-20 16:20:20] AppID 90 update changed : Running,Preallocating,
+[2016-11-20 16:20:21] AppID 90 update changed : Running,
+[2016-11-20 16:20:21] AppID 10 update started : download 0/152953680, store 0/0, reuse 0/0, stage 0/292827978
+[2016-11-20 16:20:21] AppID 10 state changed : Update Required,Shared Only,Update Running,Update Started,
+[2016-11-20 16:20:21] AppID 90 update changed : Running,Downloading,
+[2016-11-20 16:20:21] AppID 90 update changed : Running,Downloading,Staging,
+[2016-11-20 16:20:21] AppID 70 update started : download 0/251113936, store 0/0, reuse 0/0, stage 0/445330938
+[2016-11-20 16:20:21] AppID 70 state changed : Update Required,Shared Only,Update Running,Update Started,
+[2016-11-20 16:20:21] AppID 90 update started : download 0/0, store 0/0, reuse 0/0, stage 0/0
+[2016-11-20 16:20:21] No changes detected, active: 5 (5108058710828126170),1004 (7813735849390880925), target: 5 (5108058710828126170),1004 (7813735849390880925),
+[2016-11-20 16:20:21] AppID 90 state changed : Update Required,Fully Installed,Update Running,Update Started,
+[2016-11-20 16:20:22] Increasing target number of download connections to 2 (rate was 0.000, now 31.226)
+[2016-11-20 16:20:22] Created download interface of type 'CS' (1) to host valve1500.steampipe.steamcontent.com (valve1500.steamcontent.com)
+[2016-11-20 16:20:23] HTTP (CS,1500) - valve1500.steampipe.steamcontent.com (valve1500.steamcontent.com): AuthenticateDepotID (11) - Success!
+[2016-11-20 16:20:35] Increasing target number of download connections to 3 (rate was 31.226, now 63.563)
+[2016-11-20 16:20:35] Current download rate: 63.563 Mbps
+[2016-11-20 16:20:35] Created download interface of type 'CS' (1) to host valve1501.steampipe.steamcontent.com (valve1501.steamcontent.com)
+[2016-11-20 16:20:35] HTTP (CS,1501) - valve1501.steampipe.steamcontent.com (valve1501.steamcontent.com): AuthenticateDepotID (11) - Success!
+[2016-11-20 16:21:04] HTTP (CS,1500) - valve1500.steampipe.steamcontent.com (valve1500.steamcontent.com): AuthenticateDepotID (1) - Success!
+[2016-11-20 16:21:05] HTTP (CS,1501) - valve1501.steampipe.steamcontent.com (valve1501.steamcontent.com): AuthenticateDepotID (1) - Success!
+[2016-11-20 16:21:35] Current download rate: 0.000 Mbps
+[2016-11-20 16:22:18] HTTP (CS,1501) - valve1501.steampipe.steamcontent.com (valve1501.steamcontent.com): AuthenticateDepotID (71) - Success!
+[2016-11-20 16:22:19] HTTP (CS,1500) - valve1500.steampipe.steamcontent.com (valve1500.steamcontent.com): AuthenticateDepotID (71) - Success!
+[2016-11-20 16:22:19] AppID 90 update changed : Running,
+[2016-11-20 16:22:19] AppID 90 update changed : Running,Committing,
+[2016-11-20 16:22:19] AppID 10 file commit : 1197 updated, 0 moved, 0 deleted
+[2016-11-20 16:22:36] Current download rate: 0.000 Mbps
+[2016-11-20 16:22:42] AppID 10 state changed : Fully Installed,Shared Only,Update Running,
+[2016-11-20 16:22:42] Finished update AppID 10, mounted depots (BuildID 68736): 11 (3149618157612033597),
+[2016-11-20 16:22:42] AppID 70 file commit : 3865 updated, 0 moved, 0 deleted
+[2016-11-20 16:23:19] HTTP (CS,1501) - valve1501.steampipe.steamcontent.com (valve1501.steamcontent.com): Closing connection
+[2016-11-20 16:23:19] HTTP (CS,1502) - valve1502.steampipe.steamcontent.com (valve1502.steamcontent.com): Closing connection
+[2016-11-20 16:23:19] HTTP (CS,1500) - valve1500.steampipe.steamcontent.com (valve1500.steamcontent.com): Closing connection
+[2016-11-20 16:23:38] AppID 70 state changed : Fully Installed,Shared Only,Update Running,
+[2016-11-20 16:23:38] Finished update AppID 70, mounted depots (BuildID 392283): 1 (5409401804038872403),71 (778444776426820105),
+[2016-11-20 16:23:38] AppID 90 file commit : 0 updated, 0 moved, 0 deleted
+[2016-11-20 16:23:39] AppID 90 state changed : Fully Installed,Update Running,
+[2016-11-20 16:23:39] Finished update AppID 90, mounted depots (BuildID 332582): 5 (5108058710828126170),1004 (7813735849390880925),
+[2016-11-20 16:23:39] AppID 90 update changed : Running,
+[2016-11-20 16:23:39] AppID 90 update changed : None
+[2016-11-20 16:23:39] AppID 10 state changed : Fully Installed,Shared Only,
+[2016-11-20 16:23:39] AppID 70 state changed : Fully Installed,Shared Only,
+[2016-11-20 16:23:39] AppID 90 state changed : Fully Installed,
+[2016-11-20 16:23:39] AppID 90 scheduler finished : removed from schedule
+[2016-11-20 16:27:50] Start validating appID 90
+[2016-11-20 16:27:50] Scheduler update appID 90: Priority First, legacy=no, restore="", timeSinceLastPlayed=1479655670, appDisableSecondsRemaining=0
+[2016-11-20 16:27:50] AppID 90 state changed : Fully Installed,Update Running,
+[2016-11-20 16:27:50] AppID 70 state changed : Fully Installed,Shared Only,Update Running,
+[2016-11-20 16:27:50] AppID 10 state changed : Fully Installed,Shared Only,Update Running,
+[2016-11-20 16:27:50] AppID 90 update changed : Running,
+[2016-11-20 16:27:50] AppID 90 update changed : Running,Reconfiguring,
+[2016-11-20 16:27:50] AppID 90 update changed : Running,
+[2016-11-20 16:27:50] AppID 90 update changed : Running,Validating,
+[2016-11-20 16:27:50] Validating files (all active,full) ...
+[2016-11-20 16:28:09] File validation finished: 1157 files (292827978 bytes) total, 0 files (0 bytes) mismatched (18450 msec).
+[2016-11-20 16:28:09] Validating files (all active,full) ...
+[2016-11-20 16:28:42] File validation finished: 3791 files (445330938 bytes) total, 0 files (0 bytes) mismatched (33449 msec).
+[2016-11-20 16:28:42] Validating files (all active,full) ...
+[2016-11-20 16:28:44] Validation: SHA mismatch "c:\users\swarlog\desktop\cs dev\xxx\steamcmd\server\valve\dlls\Director.dll"
+[2016-11-20 16:28:44] Validation: SHA mismatch "c:\users\swarlog\desktop\cs dev\xxx\steamcmd\server\valve\dlls\hl.dll"
+[2016-11-20 16:28:44] File validation finished: 146 files (37058629 bytes) total, 2 files (1145856 bytes) mismatched (1916 msec).
+[2016-11-20 16:28:44] AppID 90 state changed : Update Required,Fully Installed,Files Missing,Update Running,
+[2016-11-20 16:28:44] AppID 90 update changed : Running,
+[2016-11-20 16:28:44] AppID 90 update changed : Running,Preallocating,
+[2016-11-20 16:28:44] AppID 90 update changed : Running,
+[2016-11-20 16:28:44] AppID 10 update started : download 0/0, store 0/0, reuse 0/0, stage 0/0
+[2016-11-20 16:28:44] No changes detected, active: 11 (3149618157612033597), target: 11 (3149618157612033597),
+[2016-11-20 16:28:44] AppID 10 state changed : Fully Installed,Shared Only,Update Running,Update Started,
+[2016-11-20 16:28:44] AppID 70 update started : download 0/0, store 0/0, reuse 0/0, stage 0/0
+[2016-11-20 16:28:44] No changes detected, active: 1 (5409401804038872403),71 (778444776426820105), target: 1 (5409401804038872403),71 (778444776426820105),
+[2016-11-20 16:28:44] AppID 70 state changed : Fully Installed,Shared Only,Update Running,Update Started,
+[2016-11-20 16:28:44] AppID 90 update started : download 0/488368, store 0/0, reuse 0/0, stage 0/1145856
+[2016-11-20 16:28:44] AppID 90 state changed : Update Required,Fully Installed,Files Missing,Update Running,Update Started,
+[2016-11-20 16:28:44] AppID 90 update changed : Running,Downloading,
+[2016-11-20 16:28:44] AppID 90 update changed : Running,Downloading,Staging,
+[2016-11-20 16:28:44] Created download interface of type 'CS' (1) to host valve1502.steampipe.steamcontent.com (valve1502.steamcontent.com)
+[2016-11-20 16:28:44] Created download interface of type 'CS' (1) to host valve1500.steampipe.steamcontent.com (valve1500.steamcontent.com)
+[2016-11-20 16:28:44] Created download interface of type 'CS' (1) to host valve1501.steampipe.steamcontent.com (valve1501.steamcontent.com)
+[2016-11-20 16:28:44] HTTP (CS,1500) - valve1500.steampipe.steamcontent.com (valve1500.steamcontent.com): AuthenticateDepotID (5) - Success!
+[2016-11-20 16:28:44] HTTP (CS,1501) - valve1501.steampipe.steamcontent.com (valve1501.steamcontent.com): AuthenticateDepotID (5) - Success!
+[2016-11-20 16:28:45] AppID 90 update changed : Running,
+[2016-11-20 16:28:45] AppID 90 update changed : Running,Committing,
+[2016-11-20 16:28:45] AppID 10 file commit : 40 updated, 0 moved, 0 deleted
+[2016-11-20 16:28:45] AppID 10 state changed : Fully Installed,Shared Only,Update Running,
+[2016-11-20 16:28:45] Finished update AppID 10, mounted depots (BuildID 68736): 11 (3149618157612033597),
+[2016-11-20 16:28:45] AppID 70 file commit : 74 updated, 0 moved, 0 deleted
+[2016-11-20 16:28:45] AppID 70 state changed : Fully Installed,Shared Only,Update Running,
+[2016-11-20 16:28:45] Finished update AppID 70, mounted depots (BuildID 392283): 1 (5409401804038872403),71 (778444776426820105),
+[2016-11-20 16:28:45] AppID 90 file commit : 2 updated, 0 moved, 0 deleted
+[2016-11-20 16:28:45] AppID 90 state changed : Fully Installed,Update Running,
+[2016-11-20 16:28:45] Finished update AppID 90, mounted depots (BuildID 332582): 5 (5108058710828126170),1004 (7813735849390880925),
+[2016-11-20 16:28:45] AppID 90 update changed : Running,
+[2016-11-20 16:28:45] AppID 90 update changed : None
+[2016-11-20 16:28:45] AppID 10 state changed : Fully Installed,Shared Only,
+[2016-11-20 16:28:45] AppID 70 state changed : Fully Installed,Shared Only,
+[2016-11-20 16:28:45] AppID 90 state changed : Fully Installed,
+[2016-11-20 16:28:45] AppID 90 scheduler finished : removed from schedule
+[2016-11-20 16:28:57] Current download rate: 0.000 Mbps
+[2016-11-20 16:29:44] HTTP (CS,1502) - valve1502.steampipe.steamcontent.com (valve1502.steamcontent.com): Closing connection
+[2016-11-20 16:29:44] HTTP (CS,1500) - valve1500.steampipe.steamcontent.com (valve1500.steamcontent.com): Closing connection
+[2016-11-20 16:29:45] HTTP (CS,1501) - valve1501.steampipe.steamcontent.com (valve1501.steamcontent.com): Closing connection
